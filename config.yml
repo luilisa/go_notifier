@@ -1,0 +1,4 @@
+web:
+  msg:
+    0: "Build completed successfully."
+    1: "Build failed."
